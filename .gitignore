@@ -2,16 +2,16 @@
 #
 # Get latest from https://github.com/github/gitignore/blob/master/Unity.gitignore
 #
-/[Ll]ibrary/
-/[Tt]emp/
-/[Oo]bj/
-/[Bb]uild/
-/[Bb]uilds/
-/[Ll]ogs/
-/[Mm]emoryCaptures/
+dylan`s_karting_game/[Ll]ibrary/
+dylan`s_karting_game/[Tt]emp/
+dylan`s_karting_game/[Oo]bj/
+dylan`s_karting_game /[Bb]uild/
+dylan`s_karting_game/[Bb]uilds/
+dylan`s_karting_game/[Ll]ogs/
+dylan`s_karting_game/[Mm]emoryCaptures/
 
 # Never ignore Asset meta data
-!/[Aa]ssets/**/*.meta
+!dylan`s_karting_game/[Aa]ssets/**/*.meta
 
 # Uncomment this line if you wish to ignore the asset store tools plugin
 # /[Aa]ssets/AssetStoreTools*
@@ -23,7 +23,7 @@
 [Aa]ssets/Plugins/Editor/JetBrains*
 
 # Visual Studio cache directory
-.vs/
+dylan`s_karting_game/.vs/
 
 # Gradle cache directory
 .gradle/
